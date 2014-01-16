@@ -1,0 +1,6 @@
+@charset "UTF-8"; 
+
+.alert {
+	position: fixed;
+	width: 100%;
+}
